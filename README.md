@@ -42,15 +42,7 @@ LANGUAGES KNOWN:
 ![](https://github-contributor-stats.vercel.app/api?username=HimangshuSharma01&limit=5&theme=radical&combine_all_yearly_contributions=true)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif" width="100%"/>
-
 ![snake](https://github.com/user-attachments/assets/0ebc1492-ea29-4007-bceb-8020ddf64e3c)
-
-
-###
-
-
-###
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
