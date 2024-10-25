@@ -1,53 +1,50 @@
-<h1 align="center">Hi 👋, I'm Himangshu Sharma</h1>
-<h3 align="center">1st Year Student CSE (AI ML) | JAVA | HTML | CSS | BOOTSTRAP | JAVASCRIPT | Currently Learning DSA in JAVA</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Calibiri+Code&weight=900&size=35&pause=1000&color=9418F7&center=true&vCenter=true&width=500&height=100&lines=AI/ML Enthusiast;Open+Source+contributor" alt="Typing Animation">
+</div>
 
+<h1 align="center">Hi 👋, I'm Himangshu Sharma</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HimangshuSharma01&label=Profile%20views&color=0e75b6&style=flat" alt="HimangshuSharma01" /> </p>
   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HimangshuSharma01&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Himangshu's GitHub Streak" /></p>
+<br>
+<div align='center'>
+
+  <a href="mailto:sharmahimangshu17@gmailcom"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://github.com/HimangshuSharma01"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
+ <a href="https://www.instagram.com/himangshuuuu._/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+ 
+<br>
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HimangshuSharma01&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HimangshuSharma01&theme=github_dark"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HimangshuSharma01&theme=github_dark"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HimangshuSharma01&theme=github_dark"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HimangshuSharma01&theme=github_dark" />
+  <!-- <h1 align="center">🏆 Trophies</h1> -->
+  <img src="https://github-profile-trophy.vercel.app/?username=HimangshuSharma01&column=-1&theme=darkhub&no-frame=false&no-bg=false&margin-w=4">
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HimangshuSharma01" alt="HimangshuSharma01" /></a> </p>
-LANGUAGES KNOWN:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+## GSSOC(24) Badges 🪶
+<div align='center' style='display:flex; align-items:center; gap: 10px;'>
+  <a href="https://gssoc.girlscript.tech/leaderboard">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+    <!--<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />-->
+    <!-- <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" /> -->
+  </a>
 </div>
+<br>
+<br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HimangshuSharma01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github.com/user-attachments/assets/b2825ec0-e3ae-498b-b239-3d36f3923614" alt="Card">
+</div>
 
+<br>
 
-### 🔝 Top Contributed Repo
+---
+<div align="center">
+  <img src="https://ssr-contributions-svg.vercel.app/_/HimangshuSharma01?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=10002B,240046,3C096C,5A189A,7B2CBF,9D4EDD,C77DFF,E0AAFF&dark=true">
+</div>
 
-![](https://github-contributor-stats.vercel.app/api?username=HimangshuSharma01&limit=5&theme=radical&combine_all_yearly_contributions=true)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
 
-![snake](https://github.com/user-attachments/assets/0ebc1492-ea29-4007-bceb-8020ddf64e3c)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/himangshu-sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himangshu-sharma" height="30" width="40" /></a>
-<a href="https://instagram.com/himangshuuuu._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himangshuuuu._" height="30" width="40" /></a>
-
-
-
+[![An image of @hs202022's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hs202022)](https://holopin.io/@hs202022)
