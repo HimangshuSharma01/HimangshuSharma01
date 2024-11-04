@@ -36,7 +36,7 @@
 <br>
 <br>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b2825ec0-e3ae-498b-b239-3d36f3923614" alt="Card">
+  <img src="https://github.com/user-attachments/assets/e6aa23de-f96c-4606-9b40-50b467da173f" alt="Card">
 </div>
 
 <br>
