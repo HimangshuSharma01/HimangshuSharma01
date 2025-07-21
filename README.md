@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Calibiri+Code&weight=900&size=35&pause=1000&color=9418F7&center=true&vCenter=true&width=500&height=100&lines=AI/ML Enthusiast;Open+Source+contributor" alt="Typing Animation">
-</div>
+
 
 <h1 align="center">Hi 👋, I'm Himangshu Sharma</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HimangshuSharma01&label=Profile%20views&color=0e75b6&style=flat" alt="HimangshuSharma01" /> </p>
@@ -39,5 +37,4 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/2f9a1120-e8ef-4733-997a-3486ef24e541" alt="Card">
 </div>
-<br>
-[![An image of @hs202022's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hs202022)](https://holopin.io/@hs202022)
+
