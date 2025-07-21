@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Himangshu Sharma</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HimangshuSharma01&label=Profile%20views&color=0e75b6&style=flat" alt="HimangshuSharma01" /> </p>
 <a href="https://wakatime.com/@29a9f08c-ebc8-46cf-9a28-02fcc72b2994"><img src="https://wakatime.com/badge/user/29a9f08c-ebc8-46cf-9a28-02fcc72b2994.svg" alt="Total time coded since Nov 3 2024" /></a>
- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HimangshuSharma01&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Himangshu's GitHub Streak" /></p>
 <br>
 <div align='center'>
 
