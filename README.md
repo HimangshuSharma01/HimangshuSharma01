@@ -11,7 +11,7 @@
 
   <a href="mailto:sharmahimangshu17@gmailcom"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://github.com/HimangshuSharma01"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
- <a href="https://www.instagram.com/himangshuuuu._/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+
  
 <br>
 
@@ -39,14 +39,5 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/2f9a1120-e8ef-4733-997a-3486ef24e541" alt="Card">
 </div>
-
 <br>
-
----
-<div align="center">
-  <img src="https://ssr-contributions-svg.vercel.app/_/HimangshuSharma01?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=10002B,240046,3C096C,5A189A,7B2CBF,9D4EDD,C77DFF,E0AAFF&dark=true">
-</div>
-
-<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
-
 [![An image of @hs202022's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hs202022)](https://holopin.io/@hs202022)
