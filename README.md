@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-  <!-- <h1 align="center">🏆 Trophies</h1> -->
+
   <img src="https://github-profile-trophy.vercel.app/?username=HimangshuSharma01&column=-1&theme=darkhub&no-frame=false&no-bg=false&margin-w=4">
 </div>
 
@@ -28,12 +28,12 @@
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-    <!-- <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" /> -->
+    
   </a>
 </div>
 <br>
 <br>
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/2f9a1120-e8ef-4733-997a-3486ef24e541" alt="Card">
+<div>
+ 
 </div>
 
