@@ -12,11 +12,6 @@
  
 <br>
 
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=HimangshuSharma01&column=-1&theme=darkhub&no-frame=false&no-bg=false&margin-w=4">
-</div>
-
 ## GSSOC(24) Badges 🪶
 <div align='center' style='display:flex; align-items:center; gap: 10px;'>
   <a href="https://gssoc.girlscript.tech/leaderboard">
